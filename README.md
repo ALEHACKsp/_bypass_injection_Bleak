@@ -46,11 +46,11 @@ using Bleak;
 
 using (var injector = new Injector("processName", "dllPath", InjectionMethod.CreateThread, InjectionFlags.None))
 {
-	// Inject the DLL into the remote process
+    // Inject the DLL into the remote process
 	
-	var dllBaseAddress = injector.InjectDll();
+    var dllBaseAddress = injector.InjectDll();
 	
-	// Eject the DLL from the process
+    // Eject the DLL from the process
 
     injector.EjectDll();
 }

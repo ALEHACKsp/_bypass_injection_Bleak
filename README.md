@@ -1,6 +1,6 @@
 ## Bleak 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/wp76wa0oe8robs3c?svg=true)](https://ci.appveyor.com/project/Akaion/bleak)
+[![Build status](https://ci.appveyor.com/api/projects/status/bbrppc3egxi3jnrp?svg=true)](https://ci.appveyor.com/project/Akaion/bleak)
 
 A Windows native DLL injection library that supports several methods of injection.
 

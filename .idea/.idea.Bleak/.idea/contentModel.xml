@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\joshd\.nuget\packages\microsoft.net.test.sdk\16.0.1\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\joshd\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\joshd\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\joshd\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\joshd\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\joshd\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Bleak.-1913856067.00" t="ExcludeRecursive" />
+    <e p="C:\Users\joshd\Desktop\Bleak" t="IncludeFlat">
+      <e p="Bleak" t="IncludeRecursive">
+        <e p="Assembly" t="Include">
+          <e p="Assembler.cs" t="Include" />
+          <e p="FunctionCall.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bleak.csproj" t="IncludeRecursive" />
+        <e p="Exceptions" t="Include">
+          <e p="PInvokeException.cs" t="Include" />
+          <e p="RemoteFunctionCallException.cs" t="Include" />
+        </e>
+        <e p="Injection" t="Include">
+          <e p="InjectionBase.cs" t="Include" />
+          <e p="Methods" t="Include">
+            <e p="CreateThread.cs" t="Include" />
+            <e p="HijackThread.cs" t="Include" />
+            <e p="ManualMap.cs" t="Include" />
+          </e>
+        </e>
+        <e p="InjectionFlags.cs" t="Include" />
+        <e p="InjectionMethod.cs" t="Include" />
+        <e p="Injector.cs" t="Include" />
+        <e p="Memory" t="Include">
+          <e p="MemoryManager.cs" t="Include" />
+        </e>
+        <e p="Native" t="Include">
+          <e p="Constants.cs" t="Include" />
+          <e p="Enumerations" t="Include">
+            <e p="ContextFlags.cs" t="Include" />
+            <e p="MemoryAllocationType.cs" t="Include" />
+            <e p="MemoryFreeType.cs" t="Include" />
+            <e p="MemoryProtectionType.cs" t="Include" />
+            <e p="MessageType.cs" t="Include" />
+            <e p="NtStatus.cs" t="Include" />
+            <e p="ProcessInformationClass.cs" t="Include" />
+            <e p="RelocationType.cs" t="Include" />
+            <e p="ThreadCreationFlags.cs" t="Include" />
+          </e>
+          <e p="PInvoke" t="Include">
+            <e p="Dbghelp.cs" t="Include" />
+            <e p="Kernel32.cs" t="Include" />
+            <e p="Ntdll.cs" t="Include" />
+            <e p="User32.cs" t="Include" />
+          </e>
+          <e p="Prototypes.cs" t="Include" />
+          <e p="SafeHandle" t="Include">
+            <e p="SafeThreadHandle.cs" t="Include" />
+          </e>
+          <e p="Structures" t="Include">
+            <e p="ApiSetNamespace.cs" t="Include" />
+            <e p="ApiSetNamespaceEntry.cs" t="Include" />
+            <e p="ApiSetValueEntry.cs" t="Include" />
+            <e p="Context32.cs" t="Include" />
+            <e p="Context64.cs" t="Include" />
+            <e p="ImageBaseRelocation.cs" t="Include" />
+            <e p="ImageDebugData.cs" t="Include" />
+            <e p="ImageDebugDirectory.cs" t="Include" />
+            <e p="ImageDelayLoadDescriptor.cs" t="Include" />
+            <e p="ImageExportDirectory.cs" t="Include" />
+            <e p="ImageImportDescriptor.cs" t="Include" />
+            <e p="ImageTlsDirectory32.cs" t="Include" />
+            <e p="ImageTlsDirectory64.cs" t="Include" />
+            <e p="LdrDataTableEntry32.cs" t="Include" />
+            <e p="LdrDataTableEntry64.cs" t="Include" />
+            <e p="ListEntry32.cs" t="Include" />
+            <e p="ListEntry64.cs" t="Include" />
+            <e p="Peb32.cs" t="Include" />
+            <e p="Peb64.cs" t="Include" />
+            <e p="PebLdrEntry32.cs" t="Include" />
+            <e p="PebLdrEntry64.cs" t="Include" />
+            <e p="ProcessBasicInformation.cs" t="Include" />
+            <e p="RtlBalancedNode32.cs" t="Include" />
+            <e p="RtlBalancedNode64.cs" t="Include" />
+            <e p="SymbolInfo.cs" t="Include" />
+            <e p="UnicodeString32.cs" t="Include" />
+            <e p="UnicodeString64.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Bleak.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PortableExecutable" t="Include">
+          <e p="BaseRelocation.cs" t="Include" />
+          <e p="ExportedFunction.cs" t="Include" />
+          <e p="ImportedFunction.cs" t="Include" />
+          <e p="PdbDebugData.cs" t="Include" />
+          <e p="PeImage.cs" t="Include" />
+          <e p="Relocation.cs" t="Include" />
+          <e p="TlsCallback.cs" t="Include" />
+        </e>
+        <e p="ProgramDatabase" t="Include">
+          <e p="PdbFile.cs" t="Include" />
+        </e>
+        <e p="RemoteProcess" t="Include">
+          <e p="Module.cs" t="Include" />
+          <e p="PebManager.cs" t="Include" />
+          <e p="ProcessManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Bleak.sln" t="IncludeFlat" />
+      <e p="Bleak.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bleak.Tests.csproj" t="IncludeRecursive" />
+        <e p="Exceptions" t="Include">
+          <e p="PInvokeException.cs" t="Include" />
+        </e>
+        <e p="InjectionTests.cs" t="Include" />
+        <e p="Memory" t="Include">
+          <e p="MemoryManager.cs" t="Include" />
+        </e>
+        <e p="Native" t="Include">
+          <e p="PInvoke" t="Include">
+            <e p="Kernel32.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Bleak.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestDll" t="Include">
+          <e p="TestDll.dll" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
